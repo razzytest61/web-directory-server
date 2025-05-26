@@ -1,0 +1,12 @@
+git clone https://github.com/razzytest61/web-directory.git
+cd web-directory
+mkdir files
+# Add your files here (e.g., copy/paste or `mv`)
+
+# Add index.html
+# (use a code editor or `touch index.html` and paste the HTML above)
+
+git add .
+git commit -m "Initial web directory setup"
+git push origin main
+
